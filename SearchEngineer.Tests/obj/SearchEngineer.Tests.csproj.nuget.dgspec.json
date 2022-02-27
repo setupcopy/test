@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj": {}
+    "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj": {}
   },
   "projects": {
-    "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj": {
+    "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj",
+        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj",
         "projectName": "SearchEngineer.Tests",
-        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj",
+        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer.Tests\\SearchEngineer.Tests.csproj",
         "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
-        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer.Tests\\obj\\",
+        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\lz\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,14 +34,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj": {
-                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj"
+              "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj": {
+                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj"
               },
-              "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\SearchEngineerUtility.csproj": {
-                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\SearchEngineerUtility.csproj"
+              "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\SearchEngineerUtility.csproj": {
+                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\SearchEngineerUtility.csproj"
               },
-              "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer\\SearchEngineer.csproj": {
-                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer\\SearchEngineer.csproj"
+              "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer\\SearchEngineer.csproj": {
+                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer\\SearchEngineer.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj": {
+    "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj",
+        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj",
         "projectName": "SearchEngineerProto",
-        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj",
+        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj",
         "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
-        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\obj\\",
+        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\lz\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\SearchEngineerUtility.csproj": {
+    "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\SearchEngineerUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\SearchEngineerUtility.csproj",
+        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\SearchEngineerUtility.csproj",
         "projectName": "SearchEngineerUtility",
-        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\SearchEngineerUtility.csproj",
+        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\SearchEngineerUtility.csproj",
         "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
-        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\obj\\",
+        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\lz\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -226,14 +226,14 @@
         }
       }
     },
-    "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer\\SearchEngineer.csproj": {
+    "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer\\SearchEngineer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer\\SearchEngineer.csproj",
+        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer\\SearchEngineer.csproj",
         "projectName": "SearchEngineer",
-        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer\\SearchEngineer.csproj",
+        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer\\SearchEngineer.csproj",
         "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
-        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer\\obj\\",
+        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\lz\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -256,11 +256,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj": {
-                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj"
+              "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj": {
+                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj"
               },
-              "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\SearchEngineerUtility.csproj": {
-                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerUtility\\SearchEngineerUtility.csproj"
+              "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\SearchEngineerUtility.csproj": {
+                "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerUtility\\SearchEngineerUtility.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj": {}
+    "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj": {}
   },
   "projects": {
-    "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj": {
+    "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj",
+        "projectUniqueName": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj",
         "projectName": "SearchEngineerProto",
-        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\SearchEngineerProto.csproj",
+        "projectPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\SearchEngineerProto.csproj",
         "packagesPath": "C:\\Users\\Setup\\.nuget\\packages\\",
-        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineerProto\\obj\\",
+        "outputPath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineerProto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\lz\\Microsoft Visual Studio\\Shared\\NuGetPackages",

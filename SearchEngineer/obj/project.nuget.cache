@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gPgwC5ah6rfeckUtHER+J8nssnrzSeE+4S0cVJb0sfNP3NB700tugJdHcmEKwtbl5QAVt1jdVHtAuPEn+feAKw==",
+  "dgSpecHash": "ekNpI+3fCxo8/fqLxfNXAy7jI9GDATV/zc1hdAd7218/zxFCY9pY6LRu7HHLGL5fa1ESYOUHP34lMWB/drVhRg==",
   "success": true,
-  "projectFilePath": "C:\\lz\\Training\\backup\\Codingtest\\SearchEngineer\\SearchEngineer.csproj",
+  "projectFilePath": "C:\\lz\\Training\\backup\\Codingtest\\test\\SearchEngineer\\SearchEngineer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Setup\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Setup\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

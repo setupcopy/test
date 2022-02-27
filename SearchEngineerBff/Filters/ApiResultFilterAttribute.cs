@@ -33,8 +33,6 @@ namespace SearchEngineerBackendForFrontend.Filters
                 {
                     resultResponse.ReturnStatus = ReturnStatus.Fail;
                 }
-
-                resultResponse.Code = objectResult.StatusCode;   
             }
 
             ResponseMessage responseMessage = new ResponseMessage();
