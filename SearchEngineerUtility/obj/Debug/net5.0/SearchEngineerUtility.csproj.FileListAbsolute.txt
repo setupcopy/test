@@ -1,0 +1,23 @@
+C:\lz\Training\Coding test\SearchEngineerUtility\bin\Debug\net5.0\SearchEngineerUtility.deps.json
+C:\lz\Training\Coding test\SearchEngineerUtility\bin\Debug\net5.0\SearchEngineerUtility.dll
+C:\lz\Training\Coding test\SearchEngineerUtility\bin\Debug\net5.0\ref\SearchEngineerUtility.dll
+C:\lz\Training\Coding test\SearchEngineerUtility\bin\Debug\net5.0\SearchEngineerUtility.pdb
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.AssemblyInfoInputs.cache
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.AssemblyInfo.cs
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.csproj.CoreCompileInputs.cache
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.dll
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\ref\SearchEngineerUtility.dll
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.pdb
+C:\lz\Training\Coding test\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.csproj.AssemblyReference.cache
+C:\lz\Training\Codingtest\SearchEngineerUtility\bin\Debug\net5.0\SearchEngineerUtility.deps.json
+C:\lz\Training\Codingtest\SearchEngineerUtility\bin\Debug\net5.0\SearchEngineerUtility.dll
+C:\lz\Training\Codingtest\SearchEngineerUtility\bin\Debug\net5.0\ref\SearchEngineerUtility.dll
+C:\lz\Training\Codingtest\SearchEngineerUtility\bin\Debug\net5.0\SearchEngineerUtility.pdb
+C:\lz\Training\Codingtest\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\Training\Codingtest\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.AssemblyInfoInputs.cache
+C:\lz\Training\Codingtest\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.AssemblyInfo.cs
+C:\lz\Training\Codingtest\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.csproj.CoreCompileInputs.cache
+C:\lz\Training\Codingtest\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.dll
+C:\lz\Training\Codingtest\SearchEngineerUtility\obj\Debug\net5.0\ref\SearchEngineerUtility.dll
+C:\lz\Training\Codingtest\SearchEngineerUtility\obj\Debug\net5.0\SearchEngineerUtility.pdb

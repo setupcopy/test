@@ -1,0 +1,3 @@
+obj\Release\net5.0/ISearchKeyword.cs \
+obj\Release\net5.0/ISearchKeywordGrpc.cs: C:/Users/Setup/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/Empty.proto\
+ ../SearchEngineerProto/Protos/ISearchKeyword.proto

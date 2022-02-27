@@ -1,0 +1,35 @@
+C:\lz\Training\Coding test\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.deps.json
+C:\lz\Training\Coding test\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.dll
+C:\lz\Training\Coding test\SearchEngineerProto\bin\Release\net5.0\ref\SearchEngineerProto.dll
+C:\lz\Training\Coding test\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.pdb
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.csproj.AssemblyReference.cache
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.AssemblyInfoInputs.cache
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.AssemblyInfo.cs
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.csproj.CoreCompileInputs.cache
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.dll
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\ref\SearchEngineerProto.dll
+C:\lz\Training\Coding test\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.pdb
+C:\lz\Training\Codingtest\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.deps.json
+C:\lz\Training\Codingtest\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.dll
+C:\lz\Training\Codingtest\SearchEngineerProto\bin\Release\net5.0\ref\SearchEngineerProto.dll
+C:\lz\Training\Codingtest\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.pdb
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.csproj.AssemblyReference.cache
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.AssemblyInfoInputs.cache
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.AssemblyInfo.cs
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.csproj.CoreCompileInputs.cache
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.dll
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\ref\SearchEngineerProto.dll
+C:\lz\Training\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.pdb
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.deps.json
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.dll
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\bin\Release\net5.0\ref\SearchEngineerProto.dll
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\bin\Release\net5.0\SearchEngineerProto.pdb
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.AssemblyInfoInputs.cache
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.AssemblyInfo.cs
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.csproj.CoreCompileInputs.cache
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.dll
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\obj\Release\net5.0\ref\SearchEngineerProto.dll
+C:\lz\Training\backup\Codingtest\SearchEngineerProto\obj\Release\net5.0\SearchEngineerProto.pdb

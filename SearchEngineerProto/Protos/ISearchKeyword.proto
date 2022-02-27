@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+import "google/protobuf/Empty.proto";
+
+option csharp_namespace = "SearchEngineerProto";
+
+package SearchKeywordService;
+
+service ISearchKeyword {
+	//Searching by keyword
+	rpc SearchByKeyword (SADRequest) returns (SearchBykeywordReply);
+
+	//Searching top keywords
+	rpc SearchTopKeywords (google.protobuf.Empty) returns (SearchTopKeywordsReply);
+
+	//Add Search Keyword
+	rpc AddSearchTopKeywords(SADRequest) returns (ADStatusReply);
+
+	//Delete Search Keyword
+	rpc DeleteSearchTopKeywords(SADRequest) returns (ADStatusReply);
+}
+
+//Input param of SearchByKeyword,AddSearchTopKeywords and DeleteSearchTopKeywords
+message SADRequest {
+	string keyword = 1;
+}
+
+//Output param of SearchByKeyword
+message SearchBykeywordReply {
+	int32 statusCode = 1;
+	string keyword = 2;
+}
+
+//Top keywords list
+message TopKeywords {
+	string keyword = 1;
+	int32 searchTimes = 2;
+}
+
+//Output param of SearchTopKeywords
+message SearchTopKeywordsReply {
+	int32 statusCode = 1;
+	repeated TopKeywords topKeywords = 2;
+}
+
+//Output param of AddSearchTopKeywords and and DeleteSearchTopKeywords
+message ADStatusReply {
+	int32 statusCode = 1;
+}
