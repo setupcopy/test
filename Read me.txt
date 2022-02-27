@@ -27,3 +27,9 @@ search top 5 words : http://localhost:5050/api/SearchKeyword   get
 add a word : http://localhost:5050/api/SearchKeyword   post   Type of body  { "keyword":"luck" }
 
 delete a word : http://localhost:5050/api/SearchKeyword/{keyword}    delete
+
+
+
+
+
+If I have enough time, I would do filters to handle exceptions.
