@@ -14,7 +14,7 @@ communcation: grpc, restful webapi
 
 Once you have 2 images, you execute the docker-compose.yaml file.
 
-
+ .sln file in the SearchEngineer folder
 
 
 Instruction:
