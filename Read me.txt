@@ -1,0 +1,29 @@
+Resource Download:
+
+Coding: https://github.com/setupcopy/test.git
+
+Docker images:  
+
+	apigateway :docker pull setupcopy/searchengineerbff:latest
+
+	searchservice:docker pull setupcopy/searchengineer:latest
+
+
+communcation: grpc, restful webapi
+
+
+Once you have 2 images, you execute the docker-compose.yaml file.
+
+
+
+
+Instruction:
+
+
+search for a single word :  http://localhost:5050/api/SearchKeyword/{keyword}     get
+
+search top 5 words : http://localhost:5050/api/SearchKeyword   get
+
+add a word : http://localhost:5050/api/SearchKeyword   post   Type of body  { "keyword":"luck" }
+
+delete a word : http://localhost:5050/api/SearchKeyword/{keyword}    delete
